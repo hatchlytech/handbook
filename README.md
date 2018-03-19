@@ -5,5 +5,8 @@ This is where we'll like to share whats worth knowing about Hatchly, our culture
 
 ## Sections
 * [GIT (Branching, merging, pull requests)](https://github.com/hatchlytech/handbook/blob/master/git.md)
+* Who does what
+* How we work
+* Project Architecure
 * 3rd party applications
 * Deployment
