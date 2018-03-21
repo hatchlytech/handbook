@@ -1,4 +1,4 @@
-# How We Work
+# How we work
 
 ## Cycles
 
