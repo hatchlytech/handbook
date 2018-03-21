@@ -1,4 +1,4 @@
-# Hatchly Employee Handbook
+# GIT (Branching, merging, pull requests)
 
 Please see as an example how we run our git processes
 http://nvie.com/posts/a-successful-git-branching-model/
@@ -8,7 +8,6 @@ http://nvie.com/posts/a-successful-git-branching-model/
 **May branch off from**
 
 development
-
 
 **Must merge back into**
 
