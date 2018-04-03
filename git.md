@@ -13,9 +13,15 @@ development
 
 development
 
+### Releases
+
+**Must merge back into**
+
+master
+
 **Branch naming convention**
 
-FYI-XX-[FeatureName]
+FYI-XXX-[FeatureName]
 
 XX = Jira story number
 
