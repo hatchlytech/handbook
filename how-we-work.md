@@ -42,4 +42,4 @@ Meetings are kept to a minimum as we try to allow people to focus of the work at
 
 ### Daily
 
-*Nothing:* Just work towards the common goal
+*Nothing:* Work through the stories of your weekly focus
